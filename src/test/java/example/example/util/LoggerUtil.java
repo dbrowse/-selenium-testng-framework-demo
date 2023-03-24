@@ -7,7 +7,7 @@ import example.example.listeners.LogListener;
 /**
  * The Class has all Logging related utilities.
  *
- * @author Bharathish
+ * @author Diyan
  */
 public class LoggerUtil {
 

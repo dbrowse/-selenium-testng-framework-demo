@@ -11,7 +11,7 @@ import example.example.report.ExtentReportManager;
 /**
  * The Class is responsible for Reporting
  *
- * @author Bharathish
+ * @author Diyan
  */
 public class ReportUtil {
 

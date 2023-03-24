@@ -18,7 +18,7 @@ import org.simplejavamail.mailer.config.TransportStrategy;
 /**
  * The Class is responsible for Mailing.
  *
- * @author Bharathish
+ * @author Diyan
  */
 public class MailUtil {
 

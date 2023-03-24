@@ -79,10 +79,8 @@ public class BaseTest {
 	 * Wrap up.
 	 */
 	@AfterClass
-	public void wrapUp() {
-		if (driver != null) {
-			driver.close();
-			driver.quit();
-		}
+	public void closeUp()
+	{
+		driver.close();
 	}
 }

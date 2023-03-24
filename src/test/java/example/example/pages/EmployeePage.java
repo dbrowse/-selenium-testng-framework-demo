@@ -23,7 +23,7 @@ public class EmployeePage extends BasePage {
 	@FindBy(id = "email")
 	WebElement emailInput;
 
-	@FindBy(css = "button[type=’submit’]")
+	@FindBy(id = "add-employee-submit")
 	WebElement save;
 
 

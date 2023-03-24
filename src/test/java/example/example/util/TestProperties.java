@@ -9,7 +9,7 @@ import example.example.context.Constants;
 /**
  * The Class has all TestProperties (All properties mentioned in <strong>test.properties</strong> file).
  *
- * @author Bharathish
+ * @author Diyan
  */
 public class TestProperties {
 
